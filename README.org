@@ -4,6 +4,6 @@ Lesspass v2 implementation in Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/echawk/lesspass-cl.git |
-| commit  | 9cb8142                                       |
+| commit  | 5ed06b1                                       |
 | systems | lesspass                                      |
 |---------+-----------------------------------------------|
